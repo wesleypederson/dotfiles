@@ -1,0 +1,6 @@
+Host caen
+    HostName login.engin.umich.edu
+    User wesleyp
+    ForwardAgent yes
+    ControlMaster auto
+    ControlPersist 43200
